@@ -1,1 +1,2 @@
 # Doctor-Appointment-Booking-Website
+This Web Development project is a complete front end implementation of a doctors (pediatrician) appointment booking website. The website provides an easy way for patients to book slots through an online mode. Along with this the website also contains information about various practices and routines that a parent must ensure their child follows inorder to have a healthy living.
